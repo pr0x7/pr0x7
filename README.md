@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Machine Learning research engineer
+🤖 on the make Machine Learning research engineer
 
 
 ## 🌐 Socials:
